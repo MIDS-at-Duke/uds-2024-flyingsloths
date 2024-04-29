@@ -1,0 +1,9 @@
+#Packages used for running the actual code file
+numpy
+pandas
+matplotlib
+statsmodels
+scikit-learn
+warnings
+scipy
+dame-flame
