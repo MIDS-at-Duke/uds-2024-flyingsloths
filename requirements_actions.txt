@@ -1,6 +1,4 @@
-#Packages Required by Github Actions
-
-#Devops
+#Packages Required by Github Actions for CICD
 black
 black_nbconvert
 pytest

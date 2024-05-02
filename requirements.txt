@@ -1,4 +1,4 @@
-#Packages used for running the actual code file
+#Packages used for running the Project Code
 numpy
 pandas
 matplotlib
