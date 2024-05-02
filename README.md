@@ -18,7 +18,7 @@ Lung cancer ranks as the second leading cause of death in the United States, nec
 
 ## Data
 
-The data utilized for the analysis include datasets sourced from the National Health Interview Survey (NHIS), containing information on demographics, insurance coverage, and lung cancer diagnosis from 2000 to 2018. Additionally, supplementary datasets such as COPD.csv, after_Obamacare.csv, before_Obamacare.csv, and insurance_data_cleaned.csv provide context and relevant variables for the analysis.
+The data utilized for the analysis include datasets sourced from the National Health Interview Survey (NHIS), containing information on demographics, insurance coverage, and lung cancer diagnosis from 2000 to 2018. Additionally, supplementary datasets provide context and relevant variables for the analysis.
 
 ## Methodology
 
