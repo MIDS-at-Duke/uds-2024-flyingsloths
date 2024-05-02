@@ -34,7 +34,7 @@ Sustained efforts to improve and expand health insurance coverage are crucial fo
 
 ## Repository Structure
 
-- **00_Resources:** Contains documentation related to the NHIS dataset.
+- **00_Resources:** Contains documentation related to the NHIS dataset and the Final Stakeholder Report.
 - **01_Data:** Includes raw and processed datasets used for analysis.
   - **COPD.csv:** Dataset containing information on Chronic Obstructive Pulmonary Disease.
   - **after_Obamacare.csv:** Dataset containing information on insurance coverage post-ACA.
