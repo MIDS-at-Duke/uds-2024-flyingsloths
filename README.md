@@ -22,7 +22,7 @@ The data utilized for the analysis include datasets sourced from the National He
 
 ## Methodology
 
-The methodology involves rigorous statistical analysis, including data preprocessing, matching techniques to balance the dataset, and linear probability regression analyses with controls. Causal inference techniques are employed to ensure meaningful results, distinguishing between correlation and causation.
+The methodology involves rigorous statistical analysis, including data preprocessing, matching techniques to balance the dataset, and linear probability regression analyses with controls. Causal inference techniques are employed to ensure meaningful results.
 
 ## Results
 
