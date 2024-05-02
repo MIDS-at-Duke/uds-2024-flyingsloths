@@ -36,11 +36,6 @@ Sustained efforts to improve and expand health insurance coverage are crucial fo
 
 - **00_Resources:** Contains documentation related to the NHIS dataset and the Final Stakeholder Report.
 - **01_Data:** Includes raw and processed datasets used for analysis.
-  - **COPD.csv:** Dataset containing information on Chronic Obstructive Pulmonary Disease.
-  - **after_Obamacare.csv:** Dataset containing information on insurance coverage post-ACA.
-  - **before_Obamacare.csv:** Dataset containing information on insurance coverage pre-ACA.
-  - **insurance_data_cleaned.csv:** Cleaned dataset with relevant variables.
-  - **nhis.csv.zip:** Compressed NHIS dataset.
 - **02_Code:** Contains Jupyter notebooks and scripts for data cleaning, exploratory analysis, matching techniques, regression analysis, and other analyses.
   - **Exploratory Analysis:** Folder containing notebooks for exploratory data analysis.
   - **restructured:** Folder containing notebooks for matching and regression analysis.
