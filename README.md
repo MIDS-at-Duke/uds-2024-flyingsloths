@@ -26,7 +26,7 @@ The methodology involves rigorous statistical analysis, including data preproces
 
 ## Results
 
-The results of the analysis reveal a consistent positive correlation between insurance coverage and the likelihood of receiving a lung cancer diagnosis across all time periods. The implementation of the ACA strengthened this relationship, indicating the importance of healthcare access in detecting and managing cancer.
+The results of the analysis reveal a consistent positive impact of insurance coverage on the likelihood of receiving a lung cancer diagnosis across all time periods. The implementation of the ACA strengthened this relationship, indicating the importance of healthcare access in detecting and managing cancer.
 
 ## Conclusion
 
